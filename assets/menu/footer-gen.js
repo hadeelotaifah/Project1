@@ -20,7 +20,7 @@ var html = ' <div class="container">\
     </ul>\
   </div>\
   <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">\
-    <h4>Contact Us</h4>\
+    <h4>Contact</h4>\
     <p>\
       Chicago, IL<br>\
       United States <br><br>\
