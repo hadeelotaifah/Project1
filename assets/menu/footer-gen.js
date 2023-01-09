@@ -26,6 +26,7 @@ var html = ' <div class="container">\
       United States <br><br>\
       <strong>Phone:</strong> +1 630 915 2386<br>\
       <strong>Email:</strong> hadeel.ala@gmail.com<br>\
+      <strong>Github:</strong> hadeelotaifah<br>\
     </p>\
   </div>\
 </div>\
