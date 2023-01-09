@@ -16,7 +16,7 @@ var html = ' <div class="container">\
     <h4>Useful Links</h4>\
     <ul>\
       <li><a href="#">Home</a></li>\
-      <li><a href="#">Contact us</a></li>\
+      <li><a href="#">Contact</a></li>\
     </ul>\
   </div>\
   <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">\
